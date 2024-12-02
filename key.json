@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "agriculture-analysis",
+    "private_key_id": "c09db52519a20f0c014dbfecdbb30c302ededbe1",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDvO2Hu6pitLBg9\nDavr28wo8knNUVL2GI5xwNkLdnP8/5ocqk/4a8YfzIICreU96mHqF3Md5+ATaOgQ\nfLxaaBYmE6fRSnVOMjUBDtk7c//7uqHPLeOIGn8aLABI4vWjOmRXdp96SD7xVomK\nL5vglhG01la7q7Up1LlsvtdOf4pWSpz2Zqm4swEzSHiIoEhm65HnpkcwaTGkqFM6\nYdIwoTKbjt8AuBd35fYTkn80ljL1MOW9rEGQcAD0/06KRShGRFrDdvFshpRpaVzi\nw9JLqpyFUAU7P8/W6ewjxx+OJamxk1CU5SkkuMh5/v0znYz7BPlv4noIXA1k5CxX\nozHdsi09AgMBAAECggEAAx+bsWU0uxtr8ZgfxNjo0HwMBKHphbcKXRKEgvF3+uH8\nyXUGeEWH9QWpiOQWWHmamlYrYETqbbZymTctCmJ42jnAI4ESXllUzH+8zFmWX7Cv\nHiezjyUGwHkPQ+RatVffftjYpN2+nKNhm6vwIBLgMPk/cVHWRVvhU+R7UStkdf3w\nRNDU7qNIfwOXB6OJoeR99c7hLQGsd4jR866zIxzf9L88gqlf3/VBGmYuvPMVDOUr\npxu8v3mTs68zY4KWdx/p4SncT+sqsFiawKKokDWlT5Hm+zIKKbVRbfe4O1cYtP/C\nIUp1wBz31ej58Yec+z5l6ggRThEb56f4PJChabEJwQKBgQD7ezGZ0Qr7snTqQNQk\n8mVhMvk/cRZ0PaIiC3fNRMv3a56Ry3YHFB8PnalVFDs4wjagPIdYpKIlRpMZViSh\nyFohFBjB+g6HdxJMg79QAI5Dv4ZzDWG+IXaYE0Cpc3o/hhBfjQ1+53EJx80Ye/Ef\nSRA9y/aUlyhqgUS2PIxFdxjrkQKBgQDzh9exbCEmbI5U9/INr4aIk1CwBXn9kIZL\nwoPaS0S0qyThbu9UTeXlqq5IzYkmryv4oYngewPbgOBeRy6YIUEvsHFj3rqvpdx4\nNxp9Py494aW0KC0+wt6X/jsCAPECn9qQLkKo+I14Oa5MFUAr0XS8T0Io0VCQzx3Z\nEyav3qKY7QKBgQD1mUbDtchIL+zGqjGFM8WWu7V4I/WN6HNjVFfX/IxGQrBGKrJG\nD3yWP5+UG4IK2IGI1BRKmd5RES+v2tVDuutqyrmzF4cA/WS9nR1GAITv3ShtTHBc\nw0mTE5pe4wxM5Z0v9A1uFpHqv1qpwsGlkDFwaLWUQFuUSFLWtyM25C1OQQKBgQDo\nM2Yd7ZPOJ0OvEJrjIbGNF6mfrBkdBGiIY/eEdLAV8/k+WaApKf1CdvOmxxM2p1+t\nuZjVSXXsHX3RZt2ugEa/SeVT7FLkl6kXlrLTKSLWLgjpNkWtyfCjy+xHhM5ISlMD\nlphItHVvZNAkCz8ciKJdytSyRqIi8Njs2a3Rkt5GIQKBgHlNVxe069jNdtddxOqN\nANNnv7Lmn6TfsDY2LX7LqrjCGFkFoWGyoHfCB45YRi+YpT+EnxijrUHC4ejHMP2v\ndNF5u+ZPopZ7DDEp0A2W2fT5YmXUNL49d22siJjrNA9H3KlU1rLLBwdNZ24iO5T5\nbJ993N5ay0EeOvpGI+Q0ReFU\n-----END PRIVATE KEY-----\n",
+    "client_email": "agriculture@agriculture-analysis.iam.gserviceaccount.com",
+    "client_id": "114204011695049758300",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/agriculture%40agriculture-analysis.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
